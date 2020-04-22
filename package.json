@@ -1,6 +1,6 @@
 {
   "name": "dpy",
-  "version": "0.5.0",
+  "version": "0.6.1",
   "description": "light deploy base on node-ssh",
   "bin": {
     "dpy": "lib/index.js"
@@ -10,18 +10,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Jcanno/dyp.git"
+    "url": "git+https://github.com/Jcanno/dpy.git"
   },
   "keywords": [],
   "author": "Jacano <641283231@qq.com> (https://github.com/Jcanno)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Jcanno/dyp/issues"
+    "url": "https://github.com/Jcanno/dpy/issues"
   },
   "files": [
     "lib/*.js"
   ],
-  "homepage": "https://github.com/Jcanno/dyp#readme",
+  "homepage": "https://github.com/Jcanno/dpy#readme",
   "dependencies": {
     "archiver": "^3.1.1",
     "chalk": "^4.0.0",
